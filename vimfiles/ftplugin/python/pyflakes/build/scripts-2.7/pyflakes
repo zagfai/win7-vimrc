@@ -1,0 +1,4 @@
+#!D:\Program Files\Python27\python.exe
+
+from pyflakes.scripts.pyflakes import main
+main()
